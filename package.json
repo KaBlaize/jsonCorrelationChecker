@@ -1,0 +1,33 @@
+{
+  "name": "json-correlator",
+  "version": "0.1.0",
+  "description": "Tired of analyzing data? use this library to automatically gathering the correlations between arrays/objects",
+  "main": "main.js",
+  "dependencies": {
+    "shelljs": "^0.8.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaBlaize/jsonCorrelationChecker.git"
+  },
+  "keywords": [
+    "json",
+    "analyzation",
+    "node",
+    "dirty",
+    "data"
+  ],
+  "author": "Balazs Kanyo <bkanyo@gmail.com> (http://balazskanyo.coma)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KaBlaize/jsonCorrelationChecker/issues"
+  },
+  "homepage": "https://github.com/KaBlaize/jsonCorrelationChecker#readme",
+  "engines": {
+    "node": ">=9.5"
+  }
+}
